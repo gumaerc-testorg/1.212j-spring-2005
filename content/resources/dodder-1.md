@@ -5,8 +5,13 @@ description: 'This resource discusses about: Is ITS good or bad for air quality?
   ITS applications specifically oriented toward air quality, energy use, and the environment?,
   When deploying multiple ITS services, how can one assess the overall air quality
   impacts?, and What does this all mean for ITS Architectures?'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-212j-an-introduction-to-intelligent-transportation-systems-spring-2005/615f93bf176601baaed68099f5865d2e_dodder.pdf
+file: /media/courses/1-212j-an-introduction-to-intelligent-transportation-systems-spring-2005/615f93bf176601baaed68099f5865d2e_dodder.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: dodder.pdf
 uid: 615f93bf-1766-01ba-aed6-8099f5865d2e

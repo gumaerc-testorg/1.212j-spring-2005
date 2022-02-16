@@ -6,8 +6,13 @@ description: 'This resource includes the following topics:
   Expanding the Taxonomy: "Environmental ITS", ITS Experience in Latin America, Classification
   of ITS Air Quality Impacts by Mechanisms, A Systems Framework, and ITS deployment
   in Mexico city.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-212j-an-introduction-to-intelligent-transportation-systems-spring-2005/e397c8776a0abc09bf32763a5def4921_dodder.pdf
+file: /media/courses/1-212j-an-introduction-to-intelligent-transportation-systems-spring-2005/e397c8776a0abc09bf32763a5def4921_dodder.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: dodder.pdf
 uid: e397c877-6a0a-bc09-bf32-763a5def4921

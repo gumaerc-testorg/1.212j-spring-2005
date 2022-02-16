@@ -4,8 +4,13 @@ description: 'This resource includes the following topics:
 
   Historical development of predict and provide philosophy, Limitations of congestion
   reduction as an objective, Alternative perspectives on congestion, and Conclusions.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-212j-an-introduction-to-intelligent-transportation-systems-spring-2005/99988261ea02eb9ec087017f545731da_gifford.pdf
+file: /media/courses/1-212j-an-introduction-to-intelligent-transportation-systems-spring-2005/99988261ea02eb9ec087017f545731da_gifford.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: gifford.pdf
 uid: 99988261-ea02-eb9e-c087-017f545731da

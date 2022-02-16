@@ -9,8 +9,13 @@ description: 'This resource includes the following topics:
   Treatments, Types Of TSP, Recommendation For Deploying A TSP Project, Steps And
   Stakeholders In TSP Deployment, Lessons On APTS Field Operational Tests, And Some
   Concluding Ideas.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-212j-an-introduction-to-intelligent-transportation-systems-spring-2005/2b302f617c64011b977278ec5de39653_lec18.pdf
+file: /media/courses/1-212j-an-introduction-to-intelligent-transportation-systems-spring-2005/2b302f617c64011b977278ec5de39653_lec18.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec18.pdf
 uid: 2b302f61-7c64-011b-9772-78ec5de39653
