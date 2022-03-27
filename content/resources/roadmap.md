@@ -13,6 +13,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: c307f933-68f6-6430-75cd-35d5e0775150
 resourcetype: Document
 title: roadmap.pdf
 uid: 12fc91ba-41c8-1bf6-c36e-7a806e1ebb68

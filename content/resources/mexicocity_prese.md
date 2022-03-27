@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 05ac370b-a51b-423c-e469-6d9ea55cee69
 resourcetype: Document
 title: mexicocity_prese.pdf
 uid: 0e084af3-0659-2562-c414-771ac188a656

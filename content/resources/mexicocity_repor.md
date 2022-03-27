@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 05ac370b-a51b-423c-e469-6d9ea55cee69
 resourcetype: Document
 title: mexicocity_repor.pdf
 uid: 695c7367-a4ee-87a9-bfe3-c1ae8c928264

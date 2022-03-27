@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 05ac370b-a51b-423c-e469-6d9ea55cee69
 resourcetype: Document
 title: seattle_presenta.pdf
 uid: 6705150f-a07e-938d-0834-487e52cf65f5

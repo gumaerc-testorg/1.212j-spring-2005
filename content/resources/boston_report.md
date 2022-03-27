@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 05ac370b-a51b-423c-e469-6d9ea55cee69
 resourcetype: Document
 title: boston_report.pdf
 uid: 6a8f679d-781c-0973-a7d9-082761c68ba9

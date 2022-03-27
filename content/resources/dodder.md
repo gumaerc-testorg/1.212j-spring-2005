@@ -13,6 +13,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: c307f933-68f6-6430-75cd-35d5e0775150
 resourcetype: Document
 title: dodder.pdf
 uid: e397c877-6a0a-bc09-bf32-763a5def4921

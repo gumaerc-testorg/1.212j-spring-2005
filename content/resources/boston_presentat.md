@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 05ac370b-a51b-423c-e469-6d9ea55cee69
 resourcetype: Document
 title: boston_presentat.pdf
 uid: 56252f0f-890d-3840-ddc3-60afa27176a5

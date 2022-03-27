@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: c307f933-68f6-6430-75cd-35d5e0775150
 resourcetype: Document
 title: horan.pdf
 uid: 7c5b913b-b7b5-4e50-6417-a7a60e9631ee
