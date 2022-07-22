@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: Syllabus section contains an overview of course introduction, students
+  requirements, gradings, and academic honesty policy.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 997bdccf-c8dc-e4ee-535b-1a9b5a3ac8f9
 ---
