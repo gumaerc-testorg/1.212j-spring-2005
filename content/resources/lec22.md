@@ -6,6 +6,7 @@ file: /courses/1-212j-an-introduction-to-intelligent-transportation-systems-spri
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec22.pdf
 uid: e43461b2-f83d-4d48-63de-a59cbe32ebdd
 ---
 This resource discusses about the readings and handouts provided suring lecture.
-

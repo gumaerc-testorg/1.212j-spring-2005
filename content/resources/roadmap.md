@@ -10,6 +10,7 @@ file: /courses/1-212j-an-introduction-to-intelligent-transportation-systems-spri
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -20,4 +21,3 @@ uid: 12fc91ba-41c8-1bf6-c36e-7a806e1ebb68
 ---
 This resource includes the following topics:
 Introduction, The DTA Project, TrEPS?s Role in the FHWA?s strategic goals, TrEPS Role in the National ITS Architecture, TrEPS and TrEPS-P Users, Roadmap for the research, Development, and Deployment of TrEPS and TrEPS-P, Benefit Potential, Summary, and References.
-

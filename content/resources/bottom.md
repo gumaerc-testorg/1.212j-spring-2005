@@ -8,6 +8,7 @@ file: /courses/1-212j-an-introduction-to-intelligent-transportation-systems-spri
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ uid: 563288f3-deba-0e78-0035-8d4e69466781
 ---
 This resource includes the following topics:
 Provide an overview of predictive route guidance, Give a sense of what?s known, Give a sense of what?s not known, and Identify some of the major issues.
-

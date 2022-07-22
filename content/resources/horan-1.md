@@ -9,6 +9,7 @@ file: /courses/1-212j-an-introduction-to-intelligent-transportation-systems-spri
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ uid: ee3a9acd-8cde-f25e-e1fa-0e88eaa7d303
 ---
 This resource includes the following topics:
 ITS Architecture: Brief Introduction to Technology, Systems and Institutional Layers, ITS Criteria of Success: Review of Federal Program Review and Implications for Strategy, and ITS Directions: Toward User Driven, High Performance Systems.
-

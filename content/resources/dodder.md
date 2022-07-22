@@ -10,6 +10,7 @@ file: /courses/1-212j-an-introduction-to-intelligent-transportation-systems-spri
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -20,4 +21,3 @@ uid: e397c877-6a0a-bc09-bf32-763a5def4921
 ---
 This resource includes the following topics:
 introduction, ITS and air quality, Identifying the Mechanisms for Air Quality Impacts, Expanding the Taxonomy: "Environmental ITS", ITS Experience in Latin America, Classification of ITS Air Quality Impacts by Mechanisms, A Systems Framework, and ITS deployment in Mexico city.
-

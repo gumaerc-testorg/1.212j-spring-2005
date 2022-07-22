@@ -8,6 +8,7 @@ file: /courses/1-212j-an-introduction-to-intelligent-transportation-systems-spri
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ uid: 99988261-ea02-eb9e-c087-017f545731da
 ---
 This resource includes the following topics:
 Historical development of predict and provide philosophy, Limitations of congestion reduction as an objective, Alternative perspectives on congestion, and Conclusions.
-

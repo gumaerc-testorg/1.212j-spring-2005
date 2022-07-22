@@ -8,6 +8,7 @@ file: /courses/1-212j-an-introduction-to-intelligent-transportation-systems-spri
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: seattle_report.pdf
 uid: 7b806aef-3b40-0066-369f-91784bcdd045
 ---
 This resource is an enclosed proposal to act as Regional Integrator?under contract to the Puget Sound Regional Council and on behalf of all transportation-related organizations in the 4-county Seattle area?to the Council for their most favorable consideration.
-

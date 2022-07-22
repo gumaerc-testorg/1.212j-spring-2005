@@ -6,6 +6,7 @@ file: /courses/1-212j-an-introduction-to-intelligent-transportation-systems-spri
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: project.pdf
 uid: 40248d59-df96-43d6-7e8e-16d964984db8
 ---
 This resource includes the general (non-region specific) reading resource list.
-

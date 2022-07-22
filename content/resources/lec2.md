@@ -9,6 +9,7 @@ file: /courses/1-212j-an-introduction-to-intelligent-transportation-systems-spri
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ uid: fe208d09-559f-4c88-a812-cda1e7a223cc
 ---
 This resource includes the following topics:
 Institutional Issues, Intelligent Transportation Systems (ITS), Transportation And Change, Transitions, CLIOS, Complexity, Nested Complexity, Summary Of Transitions, And The T-Shaped Transportation Professional.
-

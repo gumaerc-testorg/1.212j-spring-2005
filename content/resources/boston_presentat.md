@@ -7,6 +7,7 @@ file: /courses/1-212j-an-introduction-to-intelligent-transportation-systems-spri
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -17,4 +18,3 @@ uid: 56252f0f-890d-3840-ddc3-60afa27176a5
 ---
 This resource includes the following topics:
 Regional Needs, User Centric Systems, Flexibility, FHWA Rules, and Conclusion.
-

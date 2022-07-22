@@ -8,6 +8,7 @@ file: /courses/1-212j-an-introduction-to-intelligent-transportation-systems-spri
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ uid: 0e084af3-0659-2562-c414-771ac188a656
 ---
 This resource includes the following topics:
 Background, Current Institutions, Proposed Architecture, Customer-Centric, and Cost/Benefits Outline.
-

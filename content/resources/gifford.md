@@ -9,6 +9,7 @@ file: /courses/1-212j-an-introduction-to-intelligent-transportation-systems-spri
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -19,4 +20,3 @@ uid: 62ce671d-5646-58a1-14db-dadabe74b974
 ---
 This resource includes the following topics:
 Historical Background on Urban Congestion, Alternatives to Highway Capacity Expansion, Transportation Demand Management, Transportation Operations, High Occupancy Toll (HOT) Lanes, and Pricing Other than HOT Lanes.
-

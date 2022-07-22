@@ -6,6 +6,7 @@ file: /courses/1-212j-an-introduction-to-intelligent-transportation-systems-spri
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: boston_report.pdf
 uid: 6a8f679d-781c-0973-a7d9-082761c68ba9
 ---
 This resource includes a report on the regional its architecture for Boston Metropolitan region.
-
