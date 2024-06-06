@@ -6,6 +6,7 @@ description: 'This resource includes the following topics:
   Change, Transitions, CLIOS, Complexity, Nested Complexity, Summary Of Transitions,
   And The T-Shaped Transportation Professional.'
 file: /courses/1-212j-an-introduction-to-intelligent-transportation-systems-spring-2005/a869a9dbd3c761e95f05946fcb3b3bd6_lec3.pdf
+file_size: 145649
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

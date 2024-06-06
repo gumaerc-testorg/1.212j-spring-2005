@@ -6,6 +6,7 @@ description: 'This resource includes the following topics:
   Transportation Demand Management, Transportation Operations, High Occupancy Toll
   (HOT) Lanes, and Pricing Other than HOT Lanes.'
 file: /courses/1-212j-an-introduction-to-intelligent-transportation-systems-spring-2005/62ce671d564658a114dbdadabe74b974_gifford.pdf
+file_size: 248269
 file_type: application/pdf
 learning_resource_types:
 - Readings
