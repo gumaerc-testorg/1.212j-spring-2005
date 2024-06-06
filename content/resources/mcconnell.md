@@ -10,6 +10,7 @@ description: 'This resource includes class discussion on the following topics:
   Uncertainty and Flexibility, Flexibility and ITS, Quantifying the Benefits and Costs
   Associated with Flexibility, Case study, Additional Considerations, and References.'
 file: /courses/1-212j-an-introduction-to-intelligent-transportation-systems-spring-2005/4569f706b33e7f88ab28819ad61375c5_mcconnell.pdf
+file_size: 431938
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

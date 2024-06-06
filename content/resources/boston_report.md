@@ -3,6 +3,7 @@ content_type: resource
 description: This resource includes a report on the regional its architecture for
   Boston Metropolitan region.
 file: /courses/1-212j-an-introduction-to-intelligent-transportation-systems-spring-2005/6a8f679d781c0973a7d9082761c68ba9_boston_report.pdf
+file_size: 202024
 file_type: application/pdf
 learning_resource_types:
 - Projects
