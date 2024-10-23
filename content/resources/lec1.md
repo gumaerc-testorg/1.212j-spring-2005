@@ -6,7 +6,7 @@ description: 'This resource includes the following topics:
   ITS ideas, The Fundamentals, The ITS-4 Technologies, Some vechile features, transportation
   system dimentions, Driving factors in transportation, ATMS/ATIS Systems, and Some
   Key its concept.'
-file: /courses/1-212j-an-introduction-to-intelligent-transportation-systems-spring-2005/c6c85c367e0c7aa2b06ee1901716e134_lec1.pdf
+file: /ol-ocw-studio-app/courses/1-212j-an-introduction-to-intelligent-transportation-systems-spring-2005/c6c85c367e0c7aa2b06ee1901716e134_lec1.pdf
 file_size: 78104
 file_type: application/pdf
 learning_resource_types:
