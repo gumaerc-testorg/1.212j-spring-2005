@@ -4,7 +4,7 @@ description: 'This resource includes the following topics:
 
   Provide an overview of predictive route guidance, Give a sense of what?s known,
   Give a sense of what?s not known, and Identify some of the major issues.'
-file: /courses/1-212j-an-introduction-to-intelligent-transportation-systems-spring-2005/563288f3deba0e7800358d4e69466781_bottom.pdf
+file: /ol-ocw-studio-app/courses/1-212j-an-introduction-to-intelligent-transportation-systems-spring-2005/563288f3deba0e7800358d4e69466781_bottom.pdf
 file_size: 1968338
 file_type: application/pdf
 learning_resource_types:

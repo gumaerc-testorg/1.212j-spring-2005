@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource includes the following topics:
 
   Regional Needs, User Centric Systems, Flexibility, FHWA Rules, and Conclusion.'
-file: /courses/1-212j-an-introduction-to-intelligent-transportation-systems-spring-2005/56252f0f890d3840ddc360afa27176a5_boston_presentat.pdf
+file: /ol-ocw-studio-app/courses/1-212j-an-introduction-to-intelligent-transportation-systems-spring-2005/56252f0f890d3840ddc360afa27176a5_boston_presentat.pdf
 file_size: 141469
 file_type: application/pdf
 learning_resource_types:

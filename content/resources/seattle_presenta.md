@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes the discusses about Responding to PSRC RFP, and
   Making the case for a regional integrating agency for ITS.
-file: /courses/1-212j-an-introduction-to-intelligent-transportation-systems-spring-2005/6705150fa07e938d0834487e52cf65f5_seattle_presenta.pdf
+file: /ol-ocw-studio-app/courses/1-212j-an-introduction-to-intelligent-transportation-systems-spring-2005/6705150fa07e938d0834487e52cf65f5_seattle_presenta.pdf
 file_size: 631310
 file_type: application/pdf
 learning_resource_types:
