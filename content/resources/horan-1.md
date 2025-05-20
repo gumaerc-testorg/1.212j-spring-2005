@@ -5,7 +5,7 @@ description: 'This resource includes the following topics:
   ITS Architecture: Brief Introduction to Technology, Systems and Institutional Layers,
   ITS Criteria of Success: Review of Federal Program Review and Implications for Strategy,
   and ITS Directions: Toward User Driven, High Performance Systems.'
-file: /ol-ocw-studio-app/courses/1-212j-an-introduction-to-intelligent-transportation-systems-spring-2005/ee3a9acd8cdef25ee1fa0e88eaa7d303_horan.pdf
+file: /courses/1-212j-an-introduction-to-intelligent-transportation-systems-spring-2005/ee3a9acd8cdef25ee1fa0e88eaa7d303_horan.pdf
 file_size: 335656
 file_type: application/pdf
 learning_resource_types:
