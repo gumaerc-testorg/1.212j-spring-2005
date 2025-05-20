@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes the recommendations for Federal ITS Program.
-file: /ol-ocw-studio-app/courses/1-212j-an-introduction-to-intelligent-transportation-systems-spring-2005/7c5b913bb7b54e506417a7a60e9631ee_horan.pdf
+file: /courses/1-212j-an-introduction-to-intelligent-transportation-systems-spring-2005/7c5b913bb7b54e506417a7a60e9631ee_horan.pdf
 file_size: 176391
 file_type: application/pdf
 learning_resource_types:

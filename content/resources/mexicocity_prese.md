@@ -4,7 +4,7 @@ description: 'This resource includes the following topics:
 
   Background, Current Institutions, Proposed Architecture, Customer-Centric, and Cost/Benefits
   Outline.'
-file: /ol-ocw-studio-app/courses/1-212j-an-introduction-to-intelligent-transportation-systems-spring-2005/0e084af306592562c414771ac188a656_mexicocity_prese.pdf
+file: /courses/1-212j-an-introduction-to-intelligent-transportation-systems-spring-2005/0e084af306592562c414771ac188a656_mexicocity_prese.pdf
 file_size: 654873
 file_type: application/pdf
 learning_resource_types:
