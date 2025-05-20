@@ -9,7 +9,7 @@ description: 'This resource includes the following topics:
   Public Agency Internal Website, Agency Benefits Trafficmaster UK, Freight Reliability,
   Inventory Minimization, Mitretek Conclusions, Three Levels Of ATIS, Two Traffic
   Levels, And Conclusion.'
-file: /ol-ocw-studio-app/courses/1-212j-an-introduction-to-intelligent-transportation-systems-spring-2005/728541574805ce9945370f9089bcc47d_lec4.pdf
+file: /courses/1-212j-an-introduction-to-intelligent-transportation-systems-spring-2005/728541574805ce9945370f9089bcc47d_lec4.pdf
 file_size: 639774
 file_type: application/pdf
 learning_resource_types:
