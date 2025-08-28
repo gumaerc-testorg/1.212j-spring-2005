@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes the general (non-region specific) reading resource
   list.
-file: /courses/1-212j-an-introduction-to-intelligent-transportation-systems-spring-2005/40248d59df9643d67e8e16d964984db8_project.pdf
+file: /ol-ocw-studio-app/courses/1-212j-an-introduction-to-intelligent-transportation-systems-spring-2005/40248d59df9643d67e8e16d964984db8_project.pdf
 file_size: 143811
 file_type: application/pdf
 learning_resource_types:
