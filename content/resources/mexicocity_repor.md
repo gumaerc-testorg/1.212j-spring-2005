@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes a report on Regioanl Operation Planning and Architecture
   (ROPA).
-file: /courses/1-212j-an-introduction-to-intelligent-transportation-systems-spring-2005/695c7367a4ee87a9bfe3c1ae8c928264_mexicocity_repor.pdf
+file: /ol-ocw-studio-app/courses/1-212j-an-introduction-to-intelligent-transportation-systems-spring-2005/695c7367a4ee87a9bfe3c1ae8c928264_mexicocity_repor.pdf
 file_size: 176363
 file_type: application/pdf
 learning_resource_types:
